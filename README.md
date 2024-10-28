@@ -1,8 +1,13 @@
 # Filter-Button-Action-Sheet
 Filter Button with Action Sheet
 
-# Pdf Extract
+# Filter Button
 
+Giving ion-fab-button a fixed position still having the it to have a z-index.
+
+# Action-Sheet
+
+Giving action-sheet a custom buttons using divs to reorder them and enable custom icons that way having a simple better look.
 
 ## Adding Functionality to Ionic Fab Button
 
